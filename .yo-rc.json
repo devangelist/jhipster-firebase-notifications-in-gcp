@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.angelchanquin.gcp.notifications"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "gcp_example",
+        "packageName": "com.angelchanquin.gcp.notifications",
+        "packageFolder": "com/angelchanquin/gcp/notifications",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "NWQ0YmJlNDFmMDM0YjU1ZjEwZDQ1Yzk5YjUxODhhZTlhZmQwYzFmNDQ1ZmUzNjUxM2IwMjBkN2RkNjUwMTc4MmExYjQwMjJlMzYzNTc0NGRlOTlmNWI0NjcwYmMyYTA1ZGYxY2RiYzdlNjBiZTVjZTZjNmRhYWYwNDhiZGFlOTU=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
