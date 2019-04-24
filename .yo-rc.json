@@ -30,6 +30,16 @@
         "entitySuffix": "",
         "dtoSuffix": "DTO",
         "otherModules": [],
-        "enableTranslation": false
+        "enableTranslation": false,
+        "gcpProjectId": "jhipster-gae",
+        "gcpCloudSqlInstanceName": "jhipster-gae:us-east1:jhipster\r\n",
+        "gcpCloudSqlUserName": "root",
+        "gcpCloudSqlDatabaseName": "gcp_example",
+        "gaeServiceName": "default",
+        "gaeLocation": "us-east1",
+        "gaeInstanceClass": "F1",
+        "gaeScalingType": "automatic",
+        "gaeMinInstances": "1",
+        "gaeMaxInstances": "10"
     }
 }
